@@ -21,6 +21,7 @@ pip install pipenv
 cd Disk:Path/To/File (ex. C:\Document\pipenv\file)
 
 pipenv shell
+pipenv install requests
 
 pipenv run cryptoapi.py
 
