@@ -14,7 +14,7 @@ apt install py3-pip
 
 After python and pip is installed:
 
-Open Command command promt or terminal:
+Open Command command prompt or terminal:
 
 pip install pipenv
 
