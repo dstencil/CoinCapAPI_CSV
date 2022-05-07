@@ -14,7 +14,7 @@ apt install py3-pip
 
 After python and pip is installed:
 
-Commands:
+Open Command command promt or terminal:
 
 pip install pipenv
 
@@ -23,3 +23,5 @@ cd Disk:Path/To/File (ex. C:\Document\pipenv\file)
 pipenv shell
 
 pipenv run cryptoapi.py
+
+open the coincap(date).csv in current working directory to view data
